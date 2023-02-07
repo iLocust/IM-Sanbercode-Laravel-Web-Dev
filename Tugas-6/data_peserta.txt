@@ -1,0 +1,5 @@
+Data Peserta Sanbercode Bootcamp Laravel Web Dev
+1. Nama: Dimas Alexandra
+2. Email: dimasalexandra12@gmail.com
+3. Akun Gitlab: https://github.com/iLocust
+4. Akun Telegram: @advisorbid
